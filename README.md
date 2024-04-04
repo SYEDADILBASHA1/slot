@@ -32,7 +32,7 @@ Execute the program using runserver command.
 </head>
 <body>
     <center>
-        <img src="logo.png"
+        <img src="C:\Users\SYED ADIL BASHA\OneDrive\Desktop\WEB_LOGO-01.png"
         height="100"
         width="540">
     </center>
@@ -43,7 +43,7 @@ Execute the program using runserver command.
     cellpadding="4"
     border="5"
     bgcolor="cyan" > 
-    <caption><b>SLOT TimeTable-K.SAI VINAY (212221040069) </b></caption>
+    <caption><b>SLOT TimeTable-SYED ADIL BASHA (212221043008) </b></caption>
     <tr align="center">
         <th bgcolor="yellow">Day/Time</th>
         <th bgcolor="yellow">Monday</th>
@@ -68,7 +68,7 @@ Execute the program using runserver command.
     </tr>
     <tr>
         <th bgcolor="yellow">12-1</th>
-        <td colspan="5" align="center">L U N C H B R A K E</td>
+        <td colspan="5" align="center">L U N C H B R E A K</td>
     </tr>
     <tr align="center">
         <th bgcolor="yellow">1-3</th>
@@ -132,7 +132,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![output](https://github.com/SYEDADILBASHA1/slot/assets/134796157/c75b71d9-1dbe-49c2-a40c-59db0c50e372)
+
+![Screenshot (166)](https://github.com/SYEDADILBASHA1/slot/assets/134796157/e0b0719a-ef54-4b08-a367-38184870d8fe)
 
 
 
